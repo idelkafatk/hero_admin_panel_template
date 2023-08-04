@@ -1,0 +1,49 @@
+{
+  "heroes": [
+    {
+      "id": "d39ca873-5638-4268-9302-1219c091c5b5",
+      "name": "Idel",
+      "description": "asdas",
+      "element": "Огонь"
+    },
+    {
+      "id": "50a3bc6b-1e16-4349-927b-1461e552a77e",
+      "name": "Idel",
+      "description": "asda",
+      "element": "Земля"
+    },
+    {
+      "id": "a2fe0192-61fd-47c5-b84d-d7a203e5c6db",
+      "name": "Идель Алмасович Фатхуллин",
+      "description": "asda",
+      "element": "Земля"
+    }
+  ],
+  "filters": [
+    {
+      "id": "Все",
+      "name": "Все",
+      "class": "btn-outline-dark"
+    },
+    {
+      "id": "Огонь",
+      "name": "Огонь",
+      "class": "btn-danger"
+    },
+    {
+      "id": "Вода",
+      "name": "Вода",
+      "class": "btn-primary"
+    },
+    {
+      "id": "Ветер",
+      "name": "Ветер",
+      "class": "btn-success"
+    },
+    {
+      "id": "Земля",
+      "name": "Земля",
+      "class": "btn-secondary"
+    }
+  ]
+}
